@@ -56,3 +56,23 @@ input[type="submit"] {
     padding: .375rem 1rem;
     margin-top: 10px;
 }
+
+main {
+    margin: 2rem;
+    overflow-x: auto;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid lightgrey;
+    padding: .75rem;
+    text-align: left;
+}
+
+.form-wrapper p {
+    margin-top: 1rem;
+}
